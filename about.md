@@ -8,7 +8,8 @@ PaulV Developer
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Full stack developer providing end-to-end solutions using a variety of tools from client-side, middle-ware and a variety of relational back-ends
+such as Microsoft SQL, Informix, DB2 and MySql.
 
 ### Contact me
 
